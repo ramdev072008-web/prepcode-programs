@@ -1,4 +1,4 @@
-def Bhargavi(a,b):
+def ramdeww(a,b):
     print(a+b)
-Bhargavi(3,4)
-Bhargavi("abc","xyz")    
+ramdeww(3,4)
+ramdeww("abc","xyz")    
